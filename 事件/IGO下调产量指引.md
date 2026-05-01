@@ -1,0 +1,85 @@
+---
+CreateTime: 2026-04-26 22:09:27
+LastUpdate: 2026-04-27 12:59:46
+---
+
+
+
+## IGO 因CGP3爬坡速度影响，2026财年下调指引，对天齐锂业和雅保ALB各有什么影响
+
+先校正一下口径：截至2026年4月24日，IGO下调的是 `Greenbushes` 的 FY26 指引，不只是“CGP3爬坡慢”一个原因。官方把锂精矿产量指引从 `150-165万吨` 下调到 `137.5-142.5万吨`，单位现金成本从 `A$310-360/t` 上调到 `A$380-420/t`；原因包括年初至今整体表现、对6月季度CGP3爬坡预期，以及品位、回收率、检修停机和安全停工。IGO同时又说，CGP3到3月底总体仍是大体按计划爬坡，所以更像是 `Greenbushes整体运营问题`，不是单点失效。  
+
+对天齐锂业，影响偏负面，而且传导更直接。天齐在2025年一季报里写得很清楚：它通过 `TLEA` 控制 `Windfield/Talison`，间接持有 `26.01%` 权益，而格林布什化学级锂精矿又是集团锂化工的主要原料。所以这次下调，会同时压缩上游矿端利润、降低内部原料保障和产业链协同弹性。  
+但我不会把它看成大利空。IGO同季披露 Greenbushes 平均实现价已升到 `US$1,668/t`，`EBITDA margin 75%`，而且 `Kwinana FY26` 指引没有下调，所以更像是 volume/cost 逆风，不是资产质量反转。按产量指引中值粗算，这次少掉的 17.5 万吨产量，折到天齐 `权益口径` 大概是 `4.6万吨` 左右，这个数字是我按股权结构测算的，不是公司原文披露。
+
+对雅保 `ALB`，如果只看 `Greenbushes单矿权益`，它受影响其实更大，因为 ALB 持有 `49%` 的 Windfield 权益，而且公司自己披露拥有 Greenbushes `50% offtake rights`；按中值粗算，对应大概少 `8.6万吨` 权益产量暴露。  
+但放到 `ALB整家公司` 里，冲击通常比天齐更容易被对冲。原因是 Greenbushes 在 ALB 账上主要体现为 JV/联营投资收益，ALB 的锂原料还来自 `Wodgina、Atacama、Silver Peak` 等；并且 ALB 在 `2026年2月11日` 宣布把 Kemerton 剩余产线转入维护时明确说过，`对2026 projected volumes没有影响`，客户需求会由其他渠道满足。所以这次更像压低 ALB 的 JV equity income，而不一定马上改写 ALB 全年出货。
+
+一句话总结：  
+按 `矿山权益口径` 看，ALB 受影响更大；按 `公司经营穿透和市场敏感度` 看，天齐更直接、更敏感。但两家都被当前锂精矿价格回升部分对冲，所以我会把这件事定义成 `边际利空`，不是 `趋势反转`。
+
+来源：[IGO 2026-04-24 季报演示](https://www.igo.com.au/site/pdf/d0035901-ad7b-4748-be4e-88a63da8c9fe/March-2026-Quarterly-Presentation.pdf?Platform=ListPage) | [IGO 2026-04-24 季报](https://www.igo.com.au/site/pdf/dc4f0f43-c5fc-4422-a75f-9c84dc120b6c/March-2026-Quarterly-Activities-Report.pdf?Platform=ListPage) | [IGO Lithium JV 结构](https://www.igo.com.au/site/operations/lithium-holdco-joint-venture) | [天齐锂业2025Q1报告](https://static.cninfo.com.cn/finalpage/2025-04-30/1223412003.PDF) | [天齐锂业2025年报摘要](https://static.cninfo.com.cn/finalpage/2026-03-28/1225044816.PDF) | [ALB 2025 10-K](https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/alb-20251231.htm) | [ALB Kemerton公告](https://investors.albemarle.com/news-and-events/news/news-details/2026/Albemarle-Announces-Plans-to-Idle-its-Kemerton-Lithium-Hydroxide-Processing-Plant/default.aspx)
+
+
+
+
+
+## 给我2023、2024、2025年，GreenBushes锂精矿产量，以及对应的天齐锂业权益LCE。并预计原先指引和下调指引后，2026年GreenBushes锂精矿产量，以上均为自然年
+
+按你要的 `自然年` 口径，我建议统一用这条公式看天齐权益 LCE：
+
+`天齐权益LCE（万吨） ≈ Greenbushes锂精矿产量（万吨） × 26.01% × 6% × 2.473`
+也就是：
+`天齐权益LCE（万吨） ≈ Greenbushes锂精矿产量（万吨） × 0.03859`
+
+这里我统一按 `SC6 / 6% Li2O 的理论LCE` 换算，便于 2023-2025 横向可比。2024-2025 实际有少量技术级产品，真实含锂量会有轻微偏差。
+
+| 自然年 | Greenbushes锂精矿产量（100%） | 天齐锂业权益LCE（理论，26.01%） |
+| ------ | ----------------------------: | ------------------------------: |
+| 2023   |                      143 万吨 |                       5.52 万吨 |
+| 2024   |                      142 万吨 |                       5.48 万吨 |
+| 2025   |                      135 万吨 |                       5.21 万吨 |
+
+`2026年` 因为公司给的是 `FY26 指引`，不是 `CY26 指引`，所以自然年只能估算，不是官方口径。
+
+我给你两个自然年估算值：
+
+| 2026口径                   | Greenbushes锂精矿产量（100%） | 说明                                                         |
+| -------------------------- | ----------------------------: | ------------------------------------------------------------ |
+| 原先指引对应的 CY26 估算   |                  166-196 万吨 | 按 FY26 原指引 `150-165万吨`，结合 2026Q1 已产 `35.1万吨`，把 2026H1 隐含 run-rate 年化得到 |
+| 下调后指引对应的 CY26 估算 |                  141-151 万吨 | 按 FY26 下调后指引 `137.5-142.5万吨`，同样方法年化           |
+| 旧矿山规划交叉验证         |                   约 190 万吨 | Albemarle 2025年2月 TRS 里的 2026 自然年旧计划值，和上面原先指引年化结果基本一致 |
+
+如果你顺手也想看 2026 天齐对应权益 LCE，大致就是：
+`原先指引下约 6.41-7.56 万吨`
+`下调后约 5.44-5.83 万吨`
+
+来源：[CY23](https://www.igo.com.au/site/PDF/483721a4-afe7-4723-a907-6efce0c66748/GreenbushesCY23ResourcesandReserves) | [CY24](https://www.igo.com.au/site/pdf/d770a37a-9514-4822-b03e-2593a450e2fb/Revised-Greenbushes-CY24-Resources-and-Reserves.pdf?Platform=ListPage) | [CY25](https://www.igo.com.au/site/PDF/c77a89a1-88f0-4036-8099-4d196a2b0569/GreenbushesCY25ResourcesandReserves) | [天齐26.01%权益说明](https://static.cninfo.com.cn/finalpage/2025-04-30/1223412003.PDF) | [FY26原指引](https://www.igo.com.au/site/pdf/62180738-84f8-48c4-bac0-51c2dd08e66b/December-2025-Quarterly-Presentation.pdf?Platform=ListPage) | [FY26下调指引](https://www.igo.com.au/site/pdf/d0035901-ad7b-4748-be4e-88a63da8c9fe/March-2026-Quarterly-Presentation.pdf?Platform=ListPage) | [旧矿山规划TRS](https://www.sec.gov/Archives/edgar/data/915913/000091591325000024/exhibit961greenbushes202.htm)
+
+如果你要，我下一条可以直接把这些数整理成一张更适合看投资结论的表：
+`Greenbushes总量 / 天齐权益矿量 / 天齐权益LCE / 同比变化 / 2026指引变化幅度`。
+
+
+
+## 假设2026自然年下半年正常投产，预计影响天齐锂业多少产量
+
+如果假设 `2026自然年下半年恢复正常投产`，那这次对天齐的影响可以近似看成只影响 `2026H1`，也就是 IGO 把 FY26 指引从中值 `157.5万吨` 下调到 `140万吨` 的这部分缺口。
+
+核心测算：
+
+`Greenbushes少产量 ≈ 17.5万吨锂精矿`
+
+对应天齐锂业穿透权益 `26.01%`：
+
+`17.5 × 26.01% ≈ 4.55万吨锂精矿权益产量`
+
+折算成 LCE：
+
+`4.55 × 6% × 2.473 ≈ 0.68万吨LCE`
+
+所以结论是：在“2026H2正常投产”的假设下，这次下调大约影响天齐 `4.5万吨左右权益锂精矿产量`，对应 `约0.7万吨LCE`。
+
+如果按指引区间而不是中值算，影响范围大概是：天齐权益锂精矿 `2.0-7.2万吨`，对应 LCE `0.3-1.1万吨`。中值 `0.7万吨LCE` 最适合做基准情景。
+
+
+
