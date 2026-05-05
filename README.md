@@ -3,6 +3,8 @@
 
 > 仓库地址： https://github.com/ArchKS/invest
 > Typora插件： https://github.com/obgnail/typora_plugin
+2026-05-05  [structure.md](structure.md)
+
 
 ## 主题
 
@@ -20,6 +22,7 @@
 
 ## 标的
 
+- 2026-05-05  [中国食品.md](标的/中国食品.md)
 - 2026-05-01  [贝壳.md](标的/贝壳.md)
 - 2026-05-01  [面板.md](标的/面板.md)
 - 2026-05-01  [面板_京东方.md](标的/面板_京东方.md)
