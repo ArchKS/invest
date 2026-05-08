@@ -3,7 +3,6 @@
 
 > 仓库地址： https://github.com/ArchKS/invest
 > Typora插件： https://github.com/obgnail/typora_plugin
-- 2026-05-06  [电商_拼多多.md](标的/电商_拼多多.md)
 2026-05-05  [structure.md](structure.md)
 
 
@@ -25,6 +24,7 @@
 ## 标的
 
 - 2026-05-06  [医药_再鼎医药.md](标的/医药_再鼎医药.md)
+- 2026-05-06  [电商_拼多多.md](标的/电商_拼多多.md)
 - 2026-05-06  [金融_FISV.md](标的/金融_FISV.md)
 - 2026-05-05  [互联网_滴滴.md](标的/互联网_滴滴.md)
 - 2026-05-05  [互联网_腾讯.md](标的/互联网_腾讯.md)
